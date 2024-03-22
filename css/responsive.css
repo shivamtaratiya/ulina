@@ -1,0 +1,1238 @@
+
+
+
+@media screen and (max-width:1365px) {
+    .backgraun-design::after {
+        display: none;
+    }
+
+    #section-3 {
+        width: 100%;
+        background-color: #F6F8FA;
+        padding: 70px 15px;
+    }
+
+    .womens-collection-contant h2 {
+        font-size: 25px;
+    }
+
+    .banner-left-content::after {
+        width: 75%;
+        height: 100%;
+        top: 135px;
+        left: -80px;
+    }
+
+    .banner-left-content::before {
+        width: 30%;
+        height: 35%;
+        top: 275px;
+        left: 350px;
+
+    }
+
+    .right-item h2 {
+        font-size: 40px;
+    }
+
+    .womens-collection-contant {
+        padding-left: 10px;
+    }
+
+
+}
+
+@media screen and (max-width:1099px) {
+
+    .right-item h2 {
+        font-size: 40px;
+    }
+
+    .right-item p {
+        font-size: 15px;
+    }
+
+    .buy-now h5 {
+        font-size: 40px;
+    }
+
+    .sircle-time {
+        width: 60px;
+    }
+
+    .sircle-time h5 {
+        font-size: 25px;
+        height: 60px;
+        width: 60px;
+        column-gap: 10px;
+    }
+
+    .ends {
+        column-gap: 50px;
+    }
+
+    .sircle-time::after {
+        top: 12px;
+        left: 80px;
+    }
+
+    .right-item {
+        padding-left: 20px;
+    }
+
+    #section-3 {
+        padding: 40px 15px;
+    }
+
+    .banner-left-content h1 {
+        font-size: 45px;
+    }
+
+    .banner-left-content p {
+        font-size: 15px;
+    }
+
+    .banner-left-content a {
+        padding: 8px 15px;
+        font-size: 16px;
+    }
+
+    .banner-left-content::after {
+        height: 70%;
+        top: 260px;
+        left: -14px;
+    }
+
+    .banner-left-content::before {
+        left: 35px;
+    }
+
+    #section-1 {
+        padding: 35px 0;
+    }
+
+    .free-shipping img {
+        width: 50px;
+        height: 40px;
+    }
+
+    .free-shipping h2 {
+        font-size: 16px;
+    }
+
+    .free-shipping p {
+        font-size: 14px;
+    }
+
+    .arrival-title h2 {
+        font-size: 40px;
+    }
+
+    .arrival-title p {
+        font-size: 16px;
+        padding: 14px 0;
+    }
+
+    .arrival-card h2 {
+        font-size: 20px;
+    }
+
+    #section-2 {
+        width: 100%;
+        padding-bottom: 60px;
+    }
+
+    #section4 {
+        padding-top: 50px;
+    }
+
+    .featured-title-left h2 {
+        font-size: 40px;
+    }
+
+    .featured-title-left p {
+        font-size: 16px;
+    }
+
+    .featured-title-right ul li a {
+        font-size: 20px;
+    }
+
+    .featured-title-right ul li a span {
+        font-size: 20px;
+    }
+
+    .featured-box h2 {
+        font-size: 18px;
+    }
+
+    .featured-box ul {
+        padding: 10px 0;
+    }
+
+    .featured-box ul a {
+        font-size: 14px;
+    }
+
+    #section5 {
+        width: 100%;
+        padding: 50px 0 15px 0;
+    }
+
+    .womens-collection-contant h2 {
+        font-size: 25px;
+    }
+
+    .womens-collection-contant p {
+        font-size: 15px;
+    }
+
+    .shop-title h2 {
+        font-size: 40px;
+    }
+
+    .shop-title p {
+        font-size: 15px;
+        padding: 10px 0px 20px 0;
+    }
+
+    .shop-item-image h2 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+
+    .shop-item-image p {
+        font-size: 14px;
+    }
+
+    #section6 {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .customers-contant h2 {
+        font-size: 32px;
+    }
+
+    .arrival-card ul a {
+        font-size: 14px;
+    }
+
+    .customers-card p,
+    .customers-contant p {
+        font-size: 14px;
+    }
+
+    .customers-card-bottom-right h2 {
+        font-size: 15px;
+    }
+
+    .customers-contant::after {
+        display: none;
+    }
+
+    .footer-logo p {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+
+    .footer-logo span .fa.fa-envelope {
+        top: 108px;
+        left: 209px;
+    }
+
+
+    .footer-logo ul {
+        padding: 10px 0 25px;
+    }
+
+    .address h2,
+    .links h2,
+    .categories h2 {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    .underline span a {
+        font-size: 16px;
+    }
+
+    .womens-collection {
+        width: calc(50% - 15px);
+        background-color: #E9E6F0;
+        display: flex;
+    }
+
+    .womens-collection.active3 {
+        width: calc(50% - 15px);
+        background-color: #F6EBD9;
+        display: flex;
+    }
+
+    .banner-left-content::before {
+        left: 320px;
+    }
+    .arrival-card ul li {
+        column-gap: 8px;
+    }
+    .featured-box ul li{
+        column-gap: 6px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .banner-right {
+        display: none;
+    }
+
+    .banner-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .banner-left {
+        padding: 50px 0 0 0;
+        max-width: 395px;
+        margin: 0 auto;
+    }
+
+    .banner-left-content {
+        row-gap: 10px;
+        align-items: center;
+        height: 100%;
+    }
+
+    .banner-left-content::before,
+    .banner-left-content::after {
+        display: none;
+    }
+
+    .arrival-title {
+        width: 100%;
+        text-align: center;
+    }
+
+    .arrival-card {
+        width: calc(50% - 15px);
+        background-color: #F7F8FC;
+    }
+
+    .arrival-card-main {
+        gap: 15px;
+    }
+
+    .arrival-title h2 {
+        font-size: 35px;
+    }
+
+    .arrival-title p {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+
+    .arrival-card ul {
+        padding: 20px 15px;
+        border-top: solid 1px #a2acd5;
+    }
+
+    .arrival-card h2 {
+        font-size: 18px;
+        padding: 0 15px;
+    }
+
+    .arrival-card-bootam {
+        padding: 0 15px;
+    }
+
+    .arrival-iamge {
+        padding-bottom: 30px;
+    }
+
+    .arrival-card-bootam ul {
+        border-top: none;
+    }
+
+    .free-shipping {
+        width: calc(50% - 8px);
+        text-align: center;
+        align-items: center;
+        background-color: #deecec;
+        padding: 30px;
+    }
+
+    .free-shipping-main {
+        gap: 15px;
+    }
+
+    #section-2 {
+        width: 100%;
+        padding-bottom: 30px;
+    }
+
+    .left-images {
+        width: 100%;
+        max-width: 390px;
+        height: 390px;
+        margin: 0 auto;
+    }
+
+    .right-item h2 {
+        font-size: 35px;
+        padding: 0 0 10px 0;
+    }
+
+    .buy-now {
+        column-gap: 35px;
+        padding-top: 15px;
+    }
+
+    .buy-now h5 {
+        font-size: 30px;
+    }
+
+    .buy-now button {
+        height: 40px;
+        width: 130px;
+        font-size: 15px;
+    }
+
+
+    .right-item {
+        width: 100%;
+        padding: 30px 0 0 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .ends {
+        column-gap: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .ends h3 {
+        padding: 10px 0;
+    }
+
+    .right-item p {
+        padding: 5px 0;
+    }
+
+    #section-3 {
+        padding: 30px 15px;
+    }
+
+    .featured-box-main {
+        gap: 15px;
+    }
+
+    .featured-title-left h2 {
+        font-size: 35px;
+    }
+
+    .featured-title-right ul {
+        column-gap: 20px;
+    }
+
+    #section4 {
+        padding-top: 30px;
+    }
+
+    .featured-title-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .featured-title-right {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 10px 0;
+    }
+
+    .featured-box-main {
+        padding-top: 0px;
+    }
+
+    .featured-box-image {
+        border-bottom: solid 1px #a2acd5;
+        border-radius: 0;
+        margin-top: 40px;
+    }
+
+    .featured-box ul {
+        padding: 10px 15px;
+    }
+
+    .featured-box h2 {
+        font-size: 16px;
+        padding: 0 15px;
+    }
+
+    .featured-box h3 {
+        padding: 0 15px;
+        font-size: 18px;
+    }
+
+    .fa {
+        font-size: 15px;
+    }
+
+    .size ul li {
+        height: 20px;
+        width: 20px;
+    }
+
+    .size ul li a {
+        font-size: 14px;
+    }
+
+    #section5 {
+        padding: 30px 0 15px 0;
+    }
+
+    .featured-box {
+        position: relative;
+        width: calc(50% - 15px);
+        background-color: #f7f8fc;
+    }
+
+    .shop-title h2 {
+        font-size: 30px;
+    }
+
+    .shop-title p {
+        padding: 10px 0;
+    }
+
+    .shop-item-image-main {
+        column-gap: 15px;
+    }
+
+    .shop-item-image h2 {
+        font-size: 20px;
+        padding: 10px 0 0 0;
+    }
+
+    .shop-item-image p {
+        padding:10px 0;
+    }
+
+    #section6 {
+        padding-bottom: 20px;
+    }
+
+
+
+    .shop-item-image {
+        width: calc(50% - 15px);
+    }
+
+    .color ul,
+    .size ul {
+        border: none;
+    }
+
+
+    .customers-contant {
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .customers-contant h2 {
+        padding-top: 30px;
+        font-size:30px;
+    }
+    .address-right h3 a{
+        font-size: 16px;
+    }
+    .underline span {
+        font-size: 16px;
+    }
+
+
+    .customers-card-main {
+        width: 100%;
+    }
+
+    .customers-card {
+        margin-top: 30px;
+        padding: 30px 15px;
+    }
+
+    .customers-card p,
+    .customers-contant p {
+        font-size: 14px;
+    }
+
+    .customers-contant::before {
+        display: none;
+    }
+
+    #section7 {
+        padding-bottom: 30px;
+    }
+
+    #section8 {
+        padding: 30px 0;
+    }
+
+
+    .footer-main {
+        padding: 50px 0 20px 0;
+
+    }
+
+    .footer-logo {
+        width: 50%;
+    }
+
+    .address {
+        width: 50%;
+    }
+
+    .links {
+        width: 50%;
+    }
+
+    .categories {
+        width: 50%;
+    }
+
+    .navigation ul {
+        column-gap: 15px;
+    }
+
+    .womens-collection {
+        width: 100%;
+        margin-bottom: 15px;
+        padding: 0;
+        justify-content: space-between;
+    }
+
+    .womens-collection.active3 {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .womens-collection-contant h2 {
+        font-size: 25px;
+        padding: 8px 0;
+    }
+
+    #banner {
+        padding-bottom: 25px;
+    }
+
+
+}
+
+@media screen and (max-width:767px) {
+
+
+    .navigation {
+        /* display: none; */
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        visibility: hidden;
+        opacity: 0;
+        transition: 0.5s;
+    }
+
+    .header-icon {
+        width: 60%;
+    }
+
+    .bar {
+        display: block;
+    }
+
+    #header.show .navigation {
+        display: block;
+        width: 100%;
+        position: absolute;
+        top: 58px;
+        right: 0;
+        z-index: 2;
+        visibility: visible;
+        opacity: 1;
+        transition: all 0.5s;
+    }
+
+    .navigation ul {
+        display: block;
+        background-color: #8ac5c9;
+        padding-bottom: 15px;
+        visibility: visible;
+        opacity: 1;
+        transition: 0.5s;
+    }
+
+    .navigation ul li {
+        padding: 15px;
+    }
+    .navigation ul li a{
+       padding-bottom: 0;
+    }
+
+    .navigation ul li.border::after {
+        visibility: hidden;
+    }
+
+    .navigation ul li:hover::after {
+        visibility: hidden;
+    }
+
+    .navigation ul li .sub-menu {
+       position: static;
+       width: 100%;
+       display: none;
+    }
+
+    .navigation ul li .sub-menu::after {
+        display: none;
+    }
+    .navigation ul li:hover .sub-menu{
+        display: none;
+    }
+    .navigation ul li.open-menu .sub-menu{
+        display: block;
+    }
+    .navigation ul li:hover .fa-angle-down {
+        transform: rotate(180deg);
+    }
+
+    .navigation ul li:hover {
+        background-color: white;
+        width: 100%;
+    }
+    .form-title h2{
+        font-size: 40px;
+    }
+   
+    #header.show .line2 {
+        /* display: none; */
+        opacity: 0;
+        transition: 0.5s;
+    }
+
+    #header.show .line1 {
+        transform: rotate(45deg)translate(6px, 7px);
+        transition: 0.5s;
+    }
+
+    #header.show .line3 {
+        transform: rotate(-45deg) translate(-1px, 0px);
+        position: relative;
+        top: -3px;
+        transition: 0.5s;
+    }
+
+    .banner-left-content h1 {
+        font-size: 30px;
+    }
+
+    .arrival-title h2 {
+        font-size: 25px;
+    }
+
+    .arrival-card-bootam h5 {
+        font-size: 20px;
+    }
+
+    .arrival-card h2 {
+        font-size: 16px;
+    }
+
+    .left-images {
+        max-width: 300px;
+        height: 300px;
+    }
+
+    .right-item {
+        padding-top: 10px;
+    }
+
+    .right-item h5 {
+        font-size: 20px;
+    }
+    .address-right h3 a {
+        font-size: 15px;
+    }
+
+    .right-item h2 {
+        font-size: 25px;
+    }
+
+    .right-item p {
+        padding: 0;
+    }
+
+    .buy-now button {
+        height: 30px;
+        width: 100px;
+        font-size: 14px;
+    }
+
+    .buy-now h5 del {
+        font-size: 18px;
+    }
+
+    .featured-title-left h2 {
+        font-size: 20px;
+    }
+
+    .featured-title-right ul li a {
+        font-size: 16px;
+    }
+
+    .shop-title h2 {
+        font-size: 25px;
+    }
+
+    .customers-contant h2 {
+        padding-top: 20px;
+        font-size: 25px;
+    }
+
+    .footer-logo {
+        width: calc(50% - 15px);
+    }
+
+    .address {
+        width: calc(50% - 15px);
+    }
+
+    .links {
+        width: calc(50% - 15px);
+    }
+
+    .categories {
+        width: calc(50% - 15px);
+    }
+
+    .footer-logo span .fa.fa-envelope {
+        top: 126px;
+    }
+
+    .customers-contant {
+        text-align: center;
+    }
+
+    .customers-card {
+        background-color: white;
+        box-shadow: 0 0 10px 2px #fbf4f4;
+        padding: 25px 15px 25px 15px;
+    }
+
+    .customers-card p,
+    .customers-contant p {
+        line-height: 15px;
+    }
+
+    .womens-collection-contant h2 {
+        font-size: 20px;
+        padding: 8px 0;
+    }
+
+    #header {
+        padding: 15px 0;
+    }
+
+    .featured-title-right ul li a span {
+        font-size: 15px;
+    }
+}
+
+
+
+@media screen and (max-width:575px) {
+    .bar {
+        top: 6px;
+    }
+    .header-logo a img {
+        width: 70%;
+    }
+
+    #header {
+        padding: 20px 0;
+    }
+
+    .header-icon {
+        width: 65%;
+        column-gap: 15px;
+    }
+    .header-icon::after{
+        left: 92px;
+    }
+
+    .navigation ul li .sub-menu {
+        width: 72%;
+    }
+
+    .form-title h2 {
+        line-height: normal;
+        font-size: 18px;
+    }
+
+    .form-main {
+        top: 50px;
+    }
+
+    .form-row h2 {
+        font-size: 14px;
+    }
+
+    .sumbit-row h2 a {
+        font-size: 16px;
+    }
+
+    .banner-left {
+        padding: 25px 0 0 0;
+    }
+
+    .banner-left-content h1 {
+        font-size: 25px;
+    }
+
+    .banner-left-content p {
+        font-size: 14px;
+    }
+
+    .banner-left-content a {
+        padding: 6px 15px;
+        font-size: 14px;
+    }
+
+    #banner {
+        padding-bottom: 25px;
+    }
+
+    .free-shipping h2 {
+        font-size: 15px;
+    }
+
+    #section-1 {
+        padding: 15px 0;
+    }
+
+    .arrival-title h2 {
+        font-size: 18px;
+    }
+
+    .arrival-title p {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+
+    .arrival-card h2 {
+        font-size: 15px;
+    }
+
+    .arrival-card ul {
+        padding: 10px 15px;
+    }
+
+    .fa {
+        font-size: 12px;
+    }
+
+    .arrival-card-bootam ul li {
+        height: 20px;
+        width: 20px;
+        font-size: 14px;
+    }
+
+    .arrival-card-bootam h5 {
+        font-size: 16px;
+    }
+
+    .arrival-card-bootam h5 del {
+        font-size: 14px;
+    }
+
+
+    .arrival-card {
+        width: 100%;
+    }
+
+    .left-images {
+        height: 250px;
+        width: 250px;
+    }
+
+    
+    .right-item {
+        padding-top: 5px;
+    }
+
+    .right-item h2 {
+        font-size:20px;
+        padding: 5px 0;
+    }
+
+    .right-item p {
+        font-size: 14px;
+    }
+
+    .buy-now {
+        display: block;
+        padding-top: 6px;
+    }
+
+    .buy-now h5 {
+        font-size: 18px;
+        padding-bottom: 6px;
+    }
+
+    .buy-now h5 del {
+        font-size: 18px;
+    }
+
+    .buy-now button {
+        height: 30px;
+        width:110px;
+    }
+
+    .ends h3 {
+        padding: 5px 0;
+        font-size: 18px;
+    }
+
+    .buy-now button a {
+        font-size: 14px;
+    }
+
+    .ends {
+        column-gap: 0px;
+    }
+
+    .sircle-time h5 {
+        font-size: 15px;
+        height: 40px;
+        width: 40px;
+    }
+
+    .sircle-time::after {
+        top: 2px;
+        left: 56px;
+    }
+
+    #section-3 {
+        padding: 30px 15px;
+    }
+
+    #section4 {
+        padding-top: 25px;
+    }
+
+    .featured-title-left h2 {
+        font-size: 16px;
+    }
+
+    .featured-title-right ul li a span {
+        font-size: 16px;
+    }
+
+    .featured-title-left p {
+        font-size: 14px;
+    }
+
+    .featured-title-right ul {
+        column-gap: 10px;
+    }
+
+    .featured-title-right ul li a {
+        font-size: 16px;
+    }
+
+    .featured-box {
+        width: 100%;
+    }
+
+    .featured-box-main {
+        row-gap: 15px;
+    }
+
+    .featured-box h2,
+    .featured-box h3 {
+        font-size: 16px;
+    }
+
+    .featured-box-image span,
+    .featured-box-image a {
+        padding: 2px 4px;
+    }
+
+    #section5 {
+        padding:0px 0;
+    }
+    .shop-title h2 {
+        font-size: 18px;
+    }
+
+    .womens-collection {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .womens-collection.active3 {
+        width: 100%;
+    }
+
+    .womens-collection-contant h2 {
+        font-size: 14px;
+        padding: 8px 0;
+    }
+
+    .womens-collection-contant p {
+        font-size: 14px;
+    }
+
+    .shop-title {
+        width: 100%;
+        text-align: center;
+    }
+
+    .shop-title p {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    .customers-contant h2 {
+        padding-top: 15px;
+        font-size: 20px;
+    }
+
+    .shop-item-image {
+        width: calc(50% - 15px);
+    }
+    .customers-contant ul{
+        display: none;
+    }
+
+    .shop-item-image h2 {
+        font-size: 16px;
+        padding: 4px 0;
+    }
+
+    .shop-item-image p {
+        padding-bottom: 5px;
+    }
+
+    #section6 {
+        padding-bottom: 30px;
+    }
+
+    .customers-contant {
+        text-align: center;
+    }
+
+
+
+    .customers-card-main {
+        width: 100%;
+    }
+
+    .customers-card {
+        width: 100%;
+        margin-top: 0px;
+    }
+    .customers-card-main .slick-dots {
+        padding-top: 20px;
+    }
+    .slick-dots li button {
+        height: 20px;
+        width: 20px;
+    }
+    .customers-card-bottom-left img {
+        width: 35px;
+        height: 35px;
+    }
+
+
+    .customers-card-bottom-right h2 {
+        font-size: 14px;
+    }
+
+    #section8 {
+        padding: 20px 0;
+    }
+
+    .footer-logo {
+        width: 100%;
+    }
+
+    .footer-main {
+        padding: 20px 0;
+        row-gap: 10px;
+    }
+
+    .footer-logo span .fa.fa-envelope {
+        top: 100px;
+        left: 215px;
+    }
+    .footer-logo img {
+        width: auto;
+        height:30px;
+    }
+
+    .address {
+        width: 100%;
+    }
+   
+
+    .categories-main {
+        column-gap: 5px;
+    }
+
+    .underline span {
+        width: 100%;
+    }
+
+    .underline p {
+        width: 100%;
+        column-gap: 10px;
+    }
+
+    .underline span a {
+        font-size: 14px;
+    }
+    .underline span{
+        font-size: 14px;
+    }
+
+    .free-shipping-main {
+        gap: 15px;
+    }
+
+    #header.show .navigation {
+        top: 50px;
+    }
+
+    .banner-left-content span {
+        font-size: 16px;
+    }
+
+
+    .free-shipping {
+        width: 100%;
+    }
+
+    .free-shipping img {
+        width: 30px;
+        height: 30px;
+    }
+    .womens-collection-contant p a{
+        font-size: 14px;
+    }
+    .womens-collection-main{
+        margin-top: 15px;
+    }
+
+}
