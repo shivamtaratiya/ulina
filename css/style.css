@@ -214,8 +214,8 @@ body {
     position: absolute;
     content: "";
     background-image: url(../images/banner-design\ b.png);
-    max-height: 150px;
-    max-width: 150px;
+    height: 150px;
+    width: 150px;
     top: 275px;
     left: 350px;
     background-repeat: no-repeat;
