@@ -214,8 +214,8 @@ body {
     position: absolute;
     content: "";
     background-image: url(../images/banner-design\ b.png);
-    height: 150px;
     width: 150px;
+    height:150px;
     top: 275px;
     left: 350px;
     background-repeat: no-repeat;
@@ -340,8 +340,8 @@ body {
 }
 
 .free-shipping img {
-    width: 70px;
-    height: 54px;
+    width: 60px;
+    max-height: 40px;
     object-fit: contain;
     object-position: center;
 }
@@ -725,6 +725,9 @@ transition: all ease 1s;
     padding: 10px 0;
 }
 
+
+
+
 #section4 {
     width: 100%;
     padding-top: 100px;
@@ -733,6 +736,8 @@ transition: all ease 1s;
 .featured-title-left {
     width: 50%;
 }
+
+.tab-list li.active a{color: #000;}
 
 .featured-title-left h2 {
     color: #34394C;
@@ -769,7 +774,7 @@ transition: all ease 1s;
     font-size: 26px;
     font-style: normal;
     font-weight: 300;
-    padding: 10px 0;
+    /* padding: 10px 0; */
 }
 
 .featured-title-right ul li a span {
