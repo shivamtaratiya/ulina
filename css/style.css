@@ -620,7 +620,7 @@ body {
     font-weight: 400;
 }
 
-.buy-now button {
+.buy-now a {
     height: 50px;
     width: 160px;
     border-radius: 38px;
@@ -638,10 +638,10 @@ body {
   
 }
 
-.buy-now button a {
+.buy-now  a {
     color: #FFF;
 }
-.buy-now button:hover {
+.buy-now a:hover {
     background: #297176;
     color: white;
     height: 50px;
